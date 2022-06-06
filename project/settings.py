@@ -25,7 +25,7 @@ SECRET_KEY = 'flzbh-stj*8+jbsw(rfsaqiwe*q73d^&)03jctsastxbhk3md_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['chitterchat.azurewebsites.net']
 
 
 # Application definition
